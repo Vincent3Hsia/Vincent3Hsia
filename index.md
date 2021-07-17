@@ -2,7 +2,7 @@
 ## 个人简历
 ### 联系方式
 - 手机：15869145146
-- Email：1135758001@qq.com
+- Email：vincent3hsia@aliyun.com
 
 ### 个人信息
 - 夏思远
