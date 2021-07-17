@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 初来乍到
-### 做个简易的网页
+### 做个简易的个人简历
