@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💬 B站id：Vincent_Hsia
+
+🔭 I’m Vince.
+
 ### 初来乍到
 ### 做个简易的个人简历
 
@@ -18,3 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Vincent3Hsia's github stats](https://github-readme-stats.vercel.app/api?username=Vincent3Hsia&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent3Hsia&card_width=495)
