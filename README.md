@@ -2,8 +2,14 @@
 <div>
 <!--   <p><img src="avatar.svg" height="200" /></p> -->
 <!--   <p align="center">🔭 I’m Vince.</p> -->
-  <p>💬 B站id：Vincent_Hsia</p>
-  <p>个人博客: https://vincent3hsia.github.io/</p>
+  <p>
+    <a href:https://space.bilibili.com/16127372>
+    💬 B站id：Vincent_Hsia
+    </a>
+  </p>
+  <p>
+    个人博客: https://vincent3hsia.github.io/
+  </p>
 <!--   <p>懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。</p> -->
   <p>
     <img src="https://img.shields.io/github/followers/Vincent3Hsia" />
