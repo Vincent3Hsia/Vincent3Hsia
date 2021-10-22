@@ -16,17 +16,17 @@
 <!--   <p>懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。</p> -->
   <p>
     <img src="https://img.shields.io/github/followers/Vincent3Hsia" />
-    <img src="https://img.shields.io/github/stars/Vincent3Hsia">
+    <img src="https://img.shields.io/github/stars/Vincent3Hsia" />
 <!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=Vincent3Hsia.Vincent3Hsia.README.md" /> -->
   </p>
   <p>
     <img
       src="https://github-readme-stats.vercel.app/api?username=Vincent3Hsia&show_icons=true&theme=dark "
-      height="165"
+      height="165"  width="49%"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent3Hsia&layout=compact&theme=dark"
-      height="165"
+      height="165"  width="49%"
     />
   </p>
 </div>
