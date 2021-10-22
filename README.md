@@ -22,7 +22,7 @@
   
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Vincent3Hsia&show_icons=true&theme=dark&card_width=300" height="165" />
+      src="https://github-readme-stats.vercel.app/api?username=Vincent3Hsia&show_icons=true&theme=dark&card_width=180" height="165" />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent3Hsia&layout=compact&theme=dark" height="165" />
   </p>
