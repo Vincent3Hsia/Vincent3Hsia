@@ -1,21 +1,12 @@
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 💬 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
+
+😄 个人博客: [东南西北中](https://vincent3hsia.github.io/)
 <div>
 <!--   <p><img src="avatar.svg" height="200" /></p> -->
 <!--   <p align="center">🔭 I’m Vince.</p> -->
-<!--  
-  <p>
-    <a href:https://space.bilibili.com/16127372>
-    💬 B站id：Vincent_Hsia
-    </a>
-  </p>
--->
-  <p>
-    😄 个人博客: 
-  	<a href:https://vincent3hsia.github.io/>
-    东南西北中
-    </a>
-  </p>
+
+
 <!--   <p>懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。</p> -->
   <p>
     <img src="https://img.shields.io/github/followers/Vincent3Hsia" />
