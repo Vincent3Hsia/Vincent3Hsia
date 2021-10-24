@@ -1,7 +1,7 @@
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 💬 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
 
-😄 个人博客: [东南西北中](https://vincent3hsia.github.io/)
+😄 个人博客: [我的个人博客](https://vincent3hsia.github.io/)
 <div>
 <!--   <p><img src="avatar.svg" height="200" /></p> -->
 <!--   <p align="center">🔭 I’m Vince.</p> -->
@@ -11,7 +11,7 @@
   <p>
     <img src="https://img.shields.io/github/followers/Vincent3Hsia" />
     <img src="https://img.shields.io/github/stars/Vincent3Hsia" />
-<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=Vincent3Hsia.Vincent3Hsia.README.md" /> -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Vincent3Hsia.Vincent3Hsia.README.md" />
   </p>
   
   <p>
