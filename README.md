@@ -5,7 +5,7 @@
 
 🀄 Project  X | 我所有项目：[Project  X](https://vincent3hsia.github.io/Project_X)
 
-💬 聊天仓库：[聊天仓库](https://vincent3hsia.github.io/Vincent3Hsia)
+💬 聊天仓库：[聊天仓库](https://github.com/Vincent3Hsia/Hello-World/issues)
 
 <div>
 <!--   <p><img src="avatar.svg" height="200" /></p> -->
