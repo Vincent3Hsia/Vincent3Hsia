@@ -1,7 +1,12 @@
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-💬 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
+📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
 
-😄 个人博客: [我的个人博客](https://vincent3hsia.github.io/)
+💻 个人博客: [我的博客](https://vincent3hsia.github.io)
+
+🀄 Project  X | 我所有项目：[Project  X](https://vincent3hsia.github.io/Project_X)
+
+💬 聊天仓库：[聊天仓库](https://vincent3hsia.github.io/Vincent3Hsia)
+
 <div>
 <!--   <p><img src="avatar.svg" height="200" /></p> -->
 <!--   <p align="center">🔭 I’m Vince.</p> -->
