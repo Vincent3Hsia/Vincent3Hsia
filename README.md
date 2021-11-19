@@ -1,5 +1,5 @@
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-## 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
+<!-- ## 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372) -->
 
 ## [我的博客](https://vincent3hsia.github.io) - 💻 偶尔写写记录一下学到的新技术 , 防止自己忘记
 
