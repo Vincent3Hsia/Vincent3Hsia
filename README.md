@@ -1,11 +1,11 @@
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
+## 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
 
-💻 个人博客: [我的博客](https://vincent3hsia.github.io)
+## [我的博客](https://vincent3hsia.github.io) - 💻 偶尔写写记录一下学到的新技术 , 防止自己忘记
 
-🀄 Project  X | 我所有项目：[Project  X](https://vincent3hsia.github.io/Project_X)
+## [Project X](https://vincent3hsia.github.io/Project_X) - 🀄 Project  X | 我所有项目的导航
 
-💬 聊天仓库：[聊天仓库](https://github.com/Vincent3Hsia/Hello-World/issues)
+## [聊天仓库](https://github.com/Vincent3Hsia/Hello-World/issues) - 💬 通过issues和我对话
 
 <div>
 <!--   <p><img src="avatar.svg" height="200" /></p> -->
