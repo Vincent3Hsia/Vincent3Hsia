@@ -1,8 +1,9 @@
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
-## 💻 偶尔写写记录一下学到的新技术 , 防止自己忘记：[我的博客](https://vincent3hsia.github.io)
-## 🀄 Project  X | 我所有项目的导航：[Project X](https://vincent3hsia.github.io/Project_X)
+## 💻 偶尔写写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
+## 🀄 [Project X](https://vincent3hsia.github.io/Project_X) | 我所有项目的导航
 ## 💬 通过issues聊聊天：[聊天仓库](https://github.com/Vincent3Hsia/Hello-World/issues)
 
 <div>
@@ -25,9 +26,6 @@
 
   </p>
 </div>
-
-![Top Langs](https://raw.githubusercontent.com/Vincent3Hsia/github-stats-transparent/output/generated/languages.svg)
-
 
 <div>
     <!--   todo  加网页导航 -->
