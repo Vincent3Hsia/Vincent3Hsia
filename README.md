@@ -21,6 +21,8 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Vincent3Hsia&show_icons=true&theme=dark" height="165" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent3Hsia&layout=compact&theme=dark" height="165" /> -->
+    <img src="https://raw.githubusercontent.com/Vincent3Hsia/github-stats-transparent/output/generated/languages.svg" height="165" />
+
   </p>
 </div>
 
