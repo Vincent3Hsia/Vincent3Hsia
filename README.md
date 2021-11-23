@@ -2,7 +2,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
    
-<!-- [![](https://count.getloli.com/get/@dongcodebmt?theme=gelbooru-h)](https://count.getloli.com)  --> 
+<!-- [![](https://count.getloli.com/get/@vincent3hsia?theme=gelbooru-h)](https://count.getloli.com)  --> 
 [![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent3hsia&show_icons=true&theme=radical)](https://github.com/dongcodebmt)  
 
 #### Platform
