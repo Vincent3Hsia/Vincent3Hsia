@@ -33,18 +33,19 @@
 
 
 #### Platform
-![Windows 11](https://img.shields.io/badge/Windows-11-292e33?style=for-the-badge&logo=windows&logoColor=ffffff)
-![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)
+![Windows 11](https://img.shields.io/badge/Windows-11-292e33?style=for-the-badge&logo=windows)
+![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple)
 
 #### Tools
-![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
-![IDE-Visual Studio Code](https://img.shields.io/badge/editor-Visual_Studio_Code-292e33?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-f7f7f7?style=for-the-badge&logo=java&logoColor=0470b5)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-<!-- go -->
-<!-- python -->
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
-<!-- typescript -->
+![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea)
+![IDE-Visual Studio Code](https://img.shields.io/badge/editor-Visual_Studio_Code-292e33?style=for-the-badge&logo=visual-studio-code)
+
+![Java](https://img.shields.io/badge/Java-%23323330?style=for-the-badge&logo=java)
+![Vue.js](https://img.shields.io/badge/vuejs-%23323330?style=for-the-badge&logo=vuedotjs)
+![Go](https://img.shields.io/badge/Go-%23323330?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/Python-%23323330?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript)
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff) -->
 <!-- ![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff) -->
 <!-- [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#) -->
