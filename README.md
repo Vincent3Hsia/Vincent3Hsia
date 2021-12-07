@@ -8,17 +8,17 @@
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     Hello 👋 I’m Vince. 
-    <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+    
   </h1>
   <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
-<!-- ### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372) -->
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 偶尔写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
-### 💻 我的[项目](https://vincent3hsia.github.io/Project_X)导航
-### 💬 通过issues[聊聊天](https://github.com/Vincent3Hsia/Hello-World/issues)
+### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 偶尔写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
+### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 我的[项目](https://vincent3hsia.github.io/Project_X)导航
+### 💬 进来[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues)？
 
-<br><br><br><br>
+<br><br>
 
 ## How about some stats ?
    
