@@ -32,7 +32,7 @@
 
 #### Tools
 ![IDE-Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=for-the-badge&logo=intellijidea&logoColor=ffffff)   
+![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/Java-f7f7f7?style=for-the-badge&logo=java&logoColor=0470b5)
