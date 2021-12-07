@@ -14,13 +14,13 @@
 </p>
 
 <!-- ### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372) -->
-### 💻 偶尔写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
-### 🀄 我的[项目](https://vincent3hsia.github.io/Project_X)导航
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 偶尔写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
+### 💻 我的[项目](https://vincent3hsia.github.io/Project_X)导航
 ### 💬 通过issues[聊聊天](https://github.com/Vincent3Hsia/Hello-World/issues)
 
 <br><br><br><br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> How about some stats ?
+## How about some stats ?
    
 <!-- [![](https://count.getloli.com/get/@vincent3hsia?theme=gelbooru-h)](https://count.getloli.com)  --> 
 [![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent3hsia&show_icons=true&theme=radical&show_bg=1)](https://github.com/dongcodebmt)  
