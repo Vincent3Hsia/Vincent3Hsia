@@ -40,10 +40,10 @@
 ![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea)
 ![IDE-Visual Studio Code](https://img.shields.io/badge/editor-Visual_Studio_Code-292e33?style=for-the-badge&logo=visual-studio-code)
 
-![Java](https://img.shields.io/badge/Java-%23323330?style=for-the-badge&logo=java)
-![Vue.js](https://img.shields.io/badge/vuejs-%23323330?style=for-the-badge&logo=vuedotjs)
+![Java](https://img.shields.io/badge/Java-%23323330?style=for-the-badge&logo=java
 ![Go](https://img.shields.io/badge/Go-%23323330?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-%23323330?style=for-the-badge&logo=python)
+![Vue.js](https://img.shields.io/badge/vuejs-%23323330?style=for-the-badge&logo=vuedotjs)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript)
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff) -->
