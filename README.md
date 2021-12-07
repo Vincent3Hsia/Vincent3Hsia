@@ -5,7 +5,8 @@
 </p>
 
 # Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+<p>懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。</p>
 
 #### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
 #### 💻 偶尔写写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
