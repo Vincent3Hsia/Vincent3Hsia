@@ -27,15 +27,18 @@
 
 
 #### Platform
-[![](https://img.shields.io/badge/Windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](#)
+![Windows 11](https://img.shields.io/badge/Windows-11-292e33?style=for-the-badge&logo=windows&logoColor=ffffff)
+![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)
 
 #### Tools
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=flat-square&logo=intellijidea&logoColor=ffffff)](#)   
-[![](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/-Java-f7f7f7?style=flat-square&logo=java&logoColor=0470b5)](#)
-[![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](#)
+![IDE-Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=for-the-badge&logo=intellijidea&logoColor=ffffff)   
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Java](https://img.shields.io/badge/Java-f7f7f7?style=for-the-badge&logo=java&logoColor=0470b5)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff)
+
+
 <!-- [![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff)](#) -->
 <!-- [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#) -->
 <!-- [![](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=csharp&logoColor=ffffff)](#) -->
