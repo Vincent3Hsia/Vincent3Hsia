@@ -16,7 +16,7 @@
 #### 🀄 [Project X](https://vincent3hsia.github.io/Project_X) | 我所有项目的导航
 #### 💬 通过issues[聊聊天](https://github.com/Vincent3Hsia/Hello-World/issues)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> How about some stats ?
    
 <!-- [![](https://count.getloli.com/get/@vincent3hsia?theme=gelbooru-h)](https://count.getloli.com)  --> 
 [![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent3hsia&show_icons=true&theme=radical&show_bg=1)](https://github.com/dongcodebmt)  
@@ -41,6 +41,13 @@
 <!-- [![](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=csharp&logoColor=ffffff)](#) -->
 <!-- [![](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet&logoColor=ffffff)](#) -->
 
+
+<div align="left">
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 2 0 2 2 新 展 望
+<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+ 
+</div>
 
 
 
