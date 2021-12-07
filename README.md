@@ -4,8 +4,14 @@
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
-# Hello 👋 I’m Vince. <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<p>
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Hello 👋 I’m Vince. 
+    <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+  </h1>
+  <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+</p>
 
 <br>
 
@@ -31,15 +37,16 @@
 ![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)
 
 #### Tools
-![IDE-Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
+![IDE-Visual Studio Code](https://img.shields.io/badge/editor-Visual_Studio_Code-292e33?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-f7f7f7?style=for-the-badge&logo=java&logoColor=0470b5)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff)
-
-
-<!-- [![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff)](#) -->
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<!-- go -->
+<!-- python -->
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
+<!-- typescript -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff) -->
+<!-- ![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff) -->
 <!-- [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#) -->
 <!-- [![](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=csharp&logoColor=ffffff)](#) -->
 <!-- [![](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet&logoColor=ffffff)](#) -->
