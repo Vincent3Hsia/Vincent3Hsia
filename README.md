@@ -16,7 +16,7 @@
 ### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 偶尔写[博客](https://vincent3hsia.github.io),记录一下学到的新技术 , 防止自己忘记
 ### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 我的[项目](https://vincent3hsia.github.io/Project_X)导航
-### 💬 进来[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues)？
+### 💬 来[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues)？
 
 <br><br>
 
