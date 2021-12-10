@@ -13,9 +13,9 @@
   <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
-### 📺 常逛[B站](https://space.bilibili.com/16127372)
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 偶尔写[博客](https://vincent3hsia.github.io)
-### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 写了几个[项目](https://vincent3hsia.github.io/Project_X)
+### 📺 偶尔逛逛[B站](https://space.bilibili.com/16127372)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 闲时写写[博客](https://vincent3hsia.github.io)
+### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 也做了几个[项目](https://vincent3hsia.github.io/Project_X)
 ### 💬 来和我[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues)？
 
 <br><br>
