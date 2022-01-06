@@ -1,7 +1,7 @@
 
 <p>
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Vincent3Hsia"></a> -->
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"  style="float:right">
+  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"  style="float:right" align="right">
 </p>
 
 <p>
@@ -10,7 +10,7 @@
     Hello 👋 I’m Vince. 
     
   </h1>
-  <img style="float:left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <img style="float:left" align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
 ### 📺 偶尔逛逛[B站](https://space.bilibili.com/16127372)
@@ -52,14 +52,14 @@
 
 
 
-<div style="text-align:center">
+<div style="text-align:center" align="center">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 2 0 2 2 新 展 望
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
  
 </div>
 
-<p style="text-align:center">
+<p style="text-align:center" align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Vincent3Hsia/count.svg" />
 </p>
