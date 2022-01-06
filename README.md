@@ -1,7 +1,7 @@
 
 <p>
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Vincent3Hsia"></a> -->
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"  style="float:right">
 </p>
 
 <p>
@@ -10,7 +10,7 @@
     Hello 👋 I’m Vince. 
     
   </h1>
-  <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <img style="float:left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
 ### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372)
@@ -52,14 +52,14 @@
 
 
 
-<div align="center">
+<div style="text-align:center">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 2 0 2 2 新 展 望
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
  
 </div>
 
-<p align="center">
+<p style="text-align:center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Vincent3Hsia/count.svg" />
 </p>
