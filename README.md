@@ -55,7 +55,8 @@
 <div style="text-align:center" align="center">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 2 0 2 2 新 展 望
-<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="完成自己订的todoList，开始健身，保证一定的运动量，要给自己预留时间学习，代码和学位都不要落下" width="100%">
+  <p>完成自己订的todoList，开始健身，保证一定的运动量，要给自己预留时间学习，代码和学位都不要落下</p>
+<!-- <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="" width="100%"> -->
  
 </div>
 
