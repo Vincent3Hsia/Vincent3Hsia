@@ -32,7 +32,7 @@
 
 #### Platform
 ![Windows 11](https://img.shields.io/badge/Windows-11-292e33?style=for-the-badge&logo=windows)
-![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple)
+<!-- ![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple) -->
 
 #### Tools
 ![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea)
