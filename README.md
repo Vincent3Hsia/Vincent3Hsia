@@ -14,9 +14,13 @@
 </p>
 
 ### 📺 偶尔逛逛[B站](https://space.bilibili.com/16127372)
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 闲时写写[博客](https://vincent3hsia.github.io)
-### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 这有我的[项目](https://vincent3hsia.github.io/Project_X)
-### 💬 来和我[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues)？
+<!-- ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 闲时写写[博客](https://vincent3hsia.github.io) -->
+### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 这有我的[项目](https://vincent3hsia.github.io)
+### 💬 来和我[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues) ？
+<!-- #### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372) -->
+<!-- #### 💻 我的[个人介绍](https://github.com/Vincent3Hsia) -->
+<!-- #### 🀄 [Project X](https://vincent3hsia.github.io) | 我所有项目的导航 -->
+<!-- #### 💬 通过issues[聊聊天](https://github.com/Vincent3Hsia/Hello-World/issues) -->
 
 <br><br>
 
