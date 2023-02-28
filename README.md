@@ -7,8 +7,7 @@
 <p>
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-    Hello 👋 I’m Vince. 
-    
+    Hello 👋 I’m Vince.
   </h1>
   <img style="float:left" align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
