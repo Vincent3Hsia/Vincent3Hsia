@@ -3,26 +3,35 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
-<!-- Here are some quick things about me:
+Here are some quick things about me:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!-- 
 - 🔭 I'm a software engineer who is paranoid about convention, consistency, and constraints.
 - 🕵️‍♀️ I like doing quality work, and a real asshole on pull request reviews.
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
 - 🧑‍💻 Coding is my passion.
 - 📫 The best way to reach me is to send me an email.
-- ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise.
+- ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise. -->
 
-Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegraph](https://about.sourcegraph.com/)! -->
-
-
+<!-- Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegraph](https://about.sourcegraph.com/)! -->
 
 
-<!-- 
+
+
 <p>
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Vincent3Hsia"></a> -->
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"  style="float:right" align="right">
+<!--   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"  style="float:right" align="right"> -->
 </p>
-
+<!-- 
 <p>
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
@@ -30,43 +39,44 @@ Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegr
   </h1>
   <img style="float:left" align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
+ -->
 
 <!-- ### 📺 偶尔逛逛[B站](https://space.bilibili.com/16127372) -->
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 闲时写写[博客](https://vincent3hsia.top/~vincent3hsia/)
-### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 这有我的[项目](https://vincent3hsia.github.io)
-### 💬 来和我[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues) ？
+<!-- ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 闲时写写[博客](https://vincent3hsia.top/~vincent3hsia/) -->
+<!-- ### <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="30" /> 这有我的[项目](https://vincent3hsia.github.io) -->
+<!-- ### 💬 来和我[聊聊](https://github.com/Vincent3Hsia/Hello-World/issues) ？ -->
 <!-- #### 📺 B站id：[Vincent_Hsia](https://space.bilibili.com/16127372) -->
 <!-- #### 💻 我的[个人介绍](https://github.com/Vincent3Hsia) -->
 <!-- #### 🀄 [Project X](https://vincent3hsia.github.io) | 我所有项目的导航 -->
 <!-- #### 💬 通过issues[聊聊天](https://github.com/Vincent3Hsia/Hello-World/issues) -->
 
-<br><br>
+<!-- <br><br> -->
 
-## How about some stats ?
+<!-- ## How about some stats ? -->
    
 <!-- [![](https://count.getloli.com/get/@vincent3hsia?theme=gelbooru-h)](https://count.getloli.com)  --> 
-[![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent3hsia&show_icons=true&theme=radical&show_bg=1)](https://github.com/dongcodebmt)  
+<!-- [![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent3hsia&show_icons=true&theme=radical&show_bg=1)](https://github.com/dongcodebmt)   -->
 
-![](https://raw.githubusercontent.com/vincent3hsia/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/vincent3hsia/github-stats-transparent/output/generated/languages.svg)
+<!-- ![](https://raw.githubusercontent.com/vincent3hsia/github-stats-transparent/output/generated/overview.svg) -->
+<!-- ![](https://raw.githubusercontent.com/vincent3hsia/github-stats-transparent/output/generated/languages.svg) -->
 
 
 
-#### Platform
-![Windows 11](https://img.shields.io/badge/Windows-11-292e33?style=for-the-badge&logo=windows)
+<!-- #### Platform -->
+<!-- ![Windows 11](https://img.shields.io/badge/Windows-11-292e33?style=for-the-badge&logo=windows) -->
 <!-- ![macOS Hackintosh](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=for-the-badge&logo=apple) -->
 
-#### Tools
-![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea)
-![IDE-Visual Studio Code](https://img.shields.io/badge/editor-Visual_Studio_Code-292e33?style=for-the-badge&logo=visual-studio-code)
+<!-- #### Tools -->
+<!-- ![IDE-IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-292e33?style=for-the-badge&logo=intellijidea) -->
+<!-- ![IDE-Visual Studio Code](https://img.shields.io/badge/editor-Visual_Studio_Code-292e33?style=for-the-badge&logo=visual-studio-code) -->
 
-![Java](https://img.shields.io/badge/Java-%23323330?style=for-the-badge&logo=java)
-![Go](https://img.shields.io/badge/Go-%23323330?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/Python-%23323330?style=for-the-badge&logo=python)
-![Vue.js](https://img.shields.io/badge/vuejs-%23323330?style=for-the-badge&logo=vuedotjs)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript)
--->
+<!-- ![Java](https://img.shields.io/badge/Java-%23323330?style=for-the-badge&logo=java) -->
+<!-- ![Go](https://img.shields.io/badge/Go-%23323330?style=for-the-badge&logo=go) -->
+<!-- ![Python](https://img.shields.io/badge/Python-%23323330?style=for-the-badge&logo=python) -->
+<!-- ![Vue.js](https://img.shields.io/badge/vuejs-%23323330?style=for-the-badge&logo=vuedotjs) -->
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript) -->
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript) -->
+
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff) -->
 <!-- ![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff) -->
 <!-- [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#) -->
@@ -76,16 +86,16 @@ Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegr
 
 <div style="text-align:center" align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 2 0 2 3 新 展 望
-  <p>完成自己订的todoList，开始健身，保证一定的运动量，要给自己预留时间学习，代码和学位都不要落下</p>
+<!-- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 2 0 2 3 新 展 望 -->
+<!--   <p>完成自己订的todoList，开始健身，保证一定的运动量，要给自己预留时间学习，代码和学位都不要落下</p> -->
 <!-- <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="" width="100%"> -->
  
 </div>
 
-<p style="text-align:center" align="center">
+<!-- <p style="text-align:center" align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Vincent3Hsia/count.svg" />
-</p>
+</p> -->
 
 
 
