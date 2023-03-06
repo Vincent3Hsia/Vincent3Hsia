@@ -1,4 +1,23 @@
 
+### Hi there 👋
+
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+<!-- Here are some quick things about me:
+
+- 🔭 I'm a software engineer who is paranoid about convention, consistency, and constraints.
+- 🕵️‍♀️ I like doing quality work, and a real asshole on pull request reviews.
+- 🧸 I'm proud of who I am, what I have built, and what I am building.
+- 🧑‍💻 Coding is my passion.
+- 📫 The best way to reach me is to send me an email.
+- ⚡ Fun fact: I once drove to the [Half Moon Bay](https://www.google.com/maps/place/Half+Moon+Bay,+CA,+USA) for sun rise.
+
+Last but not the least, [we're hiring](https://grnh.se/6770e0974us) at [Sourcegraph](https://about.sourcegraph.com/)! -->
+
+
+
+
+<!-- 
 <p>
 <!--   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Vincent3Hsia"></a> -->
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"  style="float:right" align="right">
@@ -47,6 +66,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%23323330?style=for-the-badge&logo=vuedotjs)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330?style=for-the-badge&logo=typescript)
+-->
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=ffffff) -->
 <!-- ![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff) -->
 <!-- [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#) -->
@@ -131,5 +151,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 
 
